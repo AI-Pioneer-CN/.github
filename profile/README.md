@@ -22,7 +22,7 @@ Rather than telling you what to do, it helps you explore your thoughts, gain new
 
 Available for macOS and Windows.
 
-[Explore The Inward Pioneer](https://www.smartpioneer.com.cn/)
+[Explore The Inward Pioneer](https://www.smartpioneer.com.cn/what/)
 
 ### 🪷 Zen Echo
 
